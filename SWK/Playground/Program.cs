@@ -54,12 +54,12 @@ public struct StructNotEnumerable
 
 public ref struct RefStructNotEnumerable
 {
-    public RefStructNotEnumerable.Enumerator GetEnumerator()
+    public MyOwnEnumerator GetEnumerator()
     {
-        return new Enumerator();
+        return new MyOwnEnumerator();
     }
 
-    public ref struct Enumerator
+    public ref struct MyOwnEnumerator
     {
         public int Current { get; private set; }
 

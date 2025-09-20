@@ -5,4 +5,7 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="Playground/Playground.csproj" />
+  <Project Path="UE1.Basic/UE1.Basic.csproj" />
+  <Project Path="UE1.Client/UE1.Client.csproj" />
+  <Project Path="UE1.Library/UE1.Library.csproj" />
 </Solution>
