@@ -11,4 +11,6 @@
   <Project Path="UE1.Library/UE1.Library.csproj" />
   <Project Path="UE2.HashDict.Client/UE2.HashDict.Client.csproj" />
   <Project Path="UE2.HashDict.Impl/UE2.HashDict.Impl.csproj" />
+  <Project Path="UE3.Delegates/UE3.Delegates.csproj" />
+  <Project Path="UE3.PersonManagement/UE3.PersonManagement.csproj" />
 </Solution>
