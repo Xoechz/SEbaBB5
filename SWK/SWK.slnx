@@ -7,6 +7,7 @@
   <Project Path="Playground/Playground.csproj" />
   <Project Path="UE1.Basic/UE1.Basic.csproj" />
   <Project Path="UE1.Client/UE1.Client.csproj" />
+  <Project Path="UE1.Library.Test/UE1.Library.Test.csproj" />
   <Project Path="UE1.Library/UE1.Library.csproj" />
   <Project Path="UE2.HashDict.Client/UE2.HashDict.Client.csproj" />
   <Project Path="UE2.HashDict.Impl/UE2.HashDict.Impl.csproj" />
